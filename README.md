@@ -2,4 +2,4 @@
 
 A Covid-19 visual archive.
 
-[GitHub Pages](https://tonywu7.github.io/covidarchive/)
+[GitHub Pages](https://tonywu6.github.io/covidarchive/)
